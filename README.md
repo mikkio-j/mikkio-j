@@ -10,8 +10,8 @@
 <a href="https://github.com/mikkio-j">
   <img align="left" alt="Mikkio's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<br />
 
+<br />
 
 ### I am Mikolaj
 - Frontend technologies enthusiast.

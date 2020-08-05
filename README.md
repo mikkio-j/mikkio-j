@@ -17,3 +17,6 @@
 - Frontend technologies enthusiast.
 - A big fan of MERN stack.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mikkio-j)](https://github.com/anuraghazra/github-readme-stats)

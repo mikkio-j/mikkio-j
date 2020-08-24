@@ -10,6 +10,9 @@
 <a href="https://github.com/mikkio-j">
   <img align="left" alt="Mikkio's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://mikkio-j.github.io/my-page/">
+  <img align="left" alt="Mikkio's page" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" />
+</a>
 
 <br />
 
